@@ -10,7 +10,7 @@ from disease_info import disease_data
 from report_generator import generate_report
 
 # Load YOLO model
-model = YOLO("runs/detect/train-9/weights/best.pt")
+model = YOLO("best.pt")
 
 # Page configuration
 st.set_page_config(
