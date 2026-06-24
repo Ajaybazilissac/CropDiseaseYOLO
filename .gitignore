@@ -20,7 +20,7 @@ __pycache__/
 runs/
 
 # Large model files (optional)
-*.pt
+
 
 # Temporary files
 *.tmp
